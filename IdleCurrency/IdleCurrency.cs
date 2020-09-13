@@ -4,7 +4,7 @@
 using System;
 using System.Runtime.CompilerServices;
 
-namespace Sourav.IdleCurrency
+namespace Sourav.Idle
 {
 
     [System.Serializable]

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Sourav.IdleCurrency
+namespace Sourav.Idle
 {
     public class SampleScript : MonoBehaviour
     {
