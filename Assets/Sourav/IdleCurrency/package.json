@@ -1,7 +1,7 @@
 {
     "name": "com.sourav.idlecurrency",
     "displayName": "Sourav IdleCurrency Package",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "unity": "2018.3",
     "description": "A Simple currency that can be used in Idle games along with suffixes like K, M, B, T, aa, bb etc.",
     "author": {
